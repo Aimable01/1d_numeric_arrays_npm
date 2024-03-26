@@ -1,3 +1,4 @@
+// this one is dealing with only 1 dimensional numeric array in javascript
 //Numeric arrays
 const arr = [1, 2, 3, 4, 5];
 const arr1 = [6, 7, 8];
